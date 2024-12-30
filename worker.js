@@ -8,7 +8,7 @@ const fraudDb = 'https://raw.githubusercontent.com/amber6hua/nfd/main/data/fraud
 const notificationUrl = 'https://raw.githubusercontent.com/amber6hua/nfd/main/data/notification.txt'
 const startMsgUrl = 'https://raw.githubusercontent.com/amber6hua/nfd/main/data/startMessage.md';
 
-const enable_notification = true  //false 关闭项目提示信息
+const enable_notification = false  //false 关闭项目提示信息
 /**
  * Return url to telegram api, optionally with parameters added
  */
